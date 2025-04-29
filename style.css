@@ -1,0 +1,47 @@
+.legend {
+    background-color: silver;
+    padding: 3px 6px;
+}
+
+.input {
+    margin: 0.4rem;
+}
+
+.fieldset {
+    margin-right: 35cm;
+    margin: 2% 0;
+}
+
+.div {
+    background-color: grey;
+    text-align: center;
+}
+
+.paragraf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.li-bar {
+    list-style-type: none;
+    padding: 15px;
+}
+
+.ul-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25cm;
+}
+
+.a-bar {
+    color: black;
+    text-decoration: none;
+}
+
+.li-bar:hover {
+    background-color: silver;
+    border-radius: 8px;
+}
